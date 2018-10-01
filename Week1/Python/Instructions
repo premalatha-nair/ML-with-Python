@@ -1,0 +1,16 @@
+A few points to note
+
+1) Download Anaconda if you have not done already
+2) I am using Jupyter notebook from today to show you the Python code and examples.
+3) All exercises for the weeks will be also uploaded in Github
+4) Refer to Kaggle.com for understanding data sets
+
+Important : I am using Python 3. There are significant differences between Python 2.x and Python 3.x
+
+A Quick Introduction to Jupyter Notebook https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+Plan for this week
+
+1) Cover Data Types, Loops, Exception handling, Input handling, Functions, Modules, Classes and Objects
+2) Cover some of the advances Python packages Pandas, NumPy, Matplotlib, Scikitlearn
+3) Kaggle.com 
