@@ -1,0 +1,53 @@
+EXCERSISES
+
+PYTHON NUMBERS
+ 
+1.	Solve quadratic equation using python.
+2.	Write a python program to check leap year.
+3.	Make a calculator.
+4.	Write a python program to perform the conversions
+a.	Kilometres to miles and vice versa
+b.	Celsius to Fahrenheit and vice versa
+c.	Decimal to Binary, octal and hexadecimal 
+
+PYTHON LISTS
+ 
+1.	Create a list with minimum 8 elements and print
+a.	largest and second largest in the list.
+b.	 swap first and last element
+2.	Create two lists and merge these list & sort the elements of resulting list.
+3.	Find the union and intersection of two lists.
+4.	Create a list and print
+i.	First 5 elements
+ii.	elements 7th to end
+iii.	change the 2nd and 5th element by ‘x’ and ‘y’ respectively.
+iv.	Delete 5th element and print the list
+ 
+5.	Find the Cumulative Sum of a List where the i’th Element is the Sum of the First i+1 Elements From The Original List
+ 
+PYTHON STRINGS
+ 
+1.	Write a Program to Count the Number of Vowels Present in a String using Sets.
+2.	Write a program to read a paragraph and sort the words alphabetically. 
+3.	Write a Python Program to Displays which Letters are Present in Both the    Strings and Check Common Letters in Two Input Strings.
+4.	 Write a Python program to capitalize first and last letters of each word of a   given string.
+5.	Write a Python program to remove spaces from a given string.
+
+
+PYTHON TUPLE
+1.	 Use Tuple to return multiple values from a function
+2.	Use Tuple as dictionary keys 
+
+
+PYTHON DICTIONARY
+1.	Write a python Program to create a dictionary with roll number, name, marks in 3 subjects , total marks and average of 10 students
+2. 	Create two dictionaries and concatenate it & print the resulting dictionary.
+3.	Write a python program to Map Two Lists into a Dictionary
+
+ 
+
+
+
+
+
+
