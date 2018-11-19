@@ -1,0 +1,39 @@
+
+                      TITANIC CLASSIFICATION PROBLEM
+
+On April 15, 1912, the largest passenger liner ever made collided with an iceberg during her maiden voyage. When the 
+Titanic sank it killed 1502 out of 2224 passengers and crew. This sensational tragedy shocked the
+international community and led to better safety regulations for ships. One of the reasons that the shipwreck 
+resulted in such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was 
+some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others.
+The file contains data of the real Titanic passengers. Each row represents one person. The columns describe different 
+attributes about the person including whether they survived , their age , their passenger-class , their sex  
+and the fare they paid .
+
+The data has been split into two groups:
+•	training set (train.csv)
+•	test set (test.csv)
+The training set should be used to build your machine learning models.  
+
+The test set should be used to see how well your model performs on unseen data. For the test set, actual output is
+not provided. You need  to predict the target variable (survived).  For each passenger in the test set, use the model 
+you trained to predict whether or not they survived the sinking of the Titanic.   
+
+What you need to submit is the following 
+
+1.Problem Description and Objective
+
+2 Feature Analysis
+
+3. Visualization
+
+4. Model building with  atleast 3 Classification  Models (using different algorithms)
+
+5.  Evaluate and Get the accuracy
+
+6. Do a prediction using Test data provided
+
+7. Use ensemble methods to improve the accuracy
+
+Note :  Please note that all the  7 sections above are equally important for the case study.
+ 
